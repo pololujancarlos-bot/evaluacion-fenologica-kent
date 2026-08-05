@@ -1,0 +1,6 @@
+{
+  "name": "Evaluación Fenológica - Kent",
+  "description": "App Android offline-first para registro y monitoreo fenológico de mango Kent en campo, captura de fotos, almacenamiento SQLite y análisis automático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
